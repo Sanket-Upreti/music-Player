@@ -1,4 +1,4 @@
-# flex1.0-Music-Player
+# flex-your-songs: A Music-Player
 A Music player created using C# and its UI "WinForm". 
 
 
